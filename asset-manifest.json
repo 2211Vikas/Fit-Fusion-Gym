@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Fit-Fusion-Gym/static/css/main.20acbc28.css",
+    "main.js": "/Fit-Fusion-Gym/static/js/main.007a34ac.js",
+    "static/media/banner.jpg": "/Fit-Fusion-Gym/static/media/banner.4ecef4ca601ac3b58753.jpg",
+    "static/media/Logo-1.png": "/Fit-Fusion-Gym/static/media/Logo-1.bcf94e96804957dfeb3a.png",
+    "static/media/Logo.png": "/Fit-Fusion-Gym/static/media/Logo.bcf94e96804957dfeb3a.png",
+    "static/media/gym.png": "/Fit-Fusion-Gym/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/Fit-Fusion-Gym/index.html",
+    "main.20acbc28.css.map": "/Fit-Fusion-Gym/static/css/main.20acbc28.css.map",
+    "main.007a34ac.js.map": "/Fit-Fusion-Gym/static/js/main.007a34ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20acbc28.css",
+    "static/js/main.007a34ac.js"
+  ]
+}
